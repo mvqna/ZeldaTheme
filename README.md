@@ -26,7 +26,7 @@ https://youtu.be/W6aqvb_ujPg
 
 
 ## Credits
-This theme was created by [mvqna], a passionate Zelda fan. All elements of this theme are designed to enhance your Discord experience while celebrating the beauty and wonder of *Breath of the Wild*. Feel free to share your thoughts and feedback, but please do not modify or redistribute this theme without proper credit.
+This theme was created by mvqna, a passionate Zelda fan. All elements of this theme are designed to enhance your Discord experience while celebrating the beauty and wonder of *Breath of the Wild*. Feel free to share your thoughts and feedback, but please do not modify or redistribute this theme without proper credit.
 
 ---
 
