@@ -17,10 +17,10 @@ Immerse yourself in the breathtaking world of Hyrule with this custom Discord th
 
 
 **Here it is a tutorial!**
-![Tutorial]((https://youtu.be/W6aqvb_ujPg))
+https://youtu.be/W6aqvb_ujPg
 
 ## Screenshots
-![Screenshot 1]((https://i.imgur.com/bWIFPL0.png))
+![Screenshot 1]([https://i.imgur.com/bWIFPL0.png])
 
 
 ## Credits
