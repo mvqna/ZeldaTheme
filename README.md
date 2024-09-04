@@ -16,11 +16,11 @@ Immerse yourself in the breathtaking world of Hyrule with this custom Discord th
 3. **Enjoy**: Sit back and enjoy a Discord experience that transports you into the world of *The Legend of Zelda: Breath of the Wild*.
 
 
-**Heres a tutorial!**
-https://youtu.be/W6aqvb_ujPg
+**Here it is a tutorial!**
+![Tutorial]((https://youtu.be/W6aqvb_ujPg))
 
 ## Screenshots
-![Screenshot 1](link_to_screenshot1.jpg)
+![Screenshot 1]((https://i.imgur.com/bWIFPL0.png))
 
 
 ## Credits
