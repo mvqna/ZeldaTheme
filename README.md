@@ -14,8 +14,10 @@ Immerse yourself in the breathtaking world of Hyrule with this custom Discord th
 1. **Download**: Clone or download the theme file from the repository "ZeldaTheme.theme.css".
 2. **Apply the Theme**: Use your preferred method (BetterDiscord, Vencord, etc.) to apply the theme to your Discord client.
 3. **Enjoy**: Sit back and enjoy a Discord experience that transports you into the world of *The Legend of Zelda: Breath of the Wild*.
+
+
 **Heres a tutorial!**
-![Tutorial]((https://youtu.be/W6aqvb_ujPg))
+https://youtu.be/W6aqvb_ujPg
 
 ## Screenshots
 ![Screenshot 1](link_to_screenshot1.jpg)
