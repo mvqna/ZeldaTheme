@@ -7074,7 +7074,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body div.app_bd26cc > div.app_a01fb1::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Your Version of Zelda Theme is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor_v), .3) !important;
@@ -7199,7 +7199,7 @@ html:only-child > head + body div.app_bd26cc > div.app_a01fb1 > div.layers_d4b6c
 	position: relative !important;
 }
 html:only-child > head + body div.app_bd26cc > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1 > div.layer_d4b6c5.baseLayer_d4b6c5 + div.layer_d4b6c5 > div.standardSidebarView_c25c6d > div.sidebarRegion_c25c6d > div.sidebarRegionScroller_c25c6d.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > nav.sidebar_c25c6d > div.side_a0 > div.info_c5a741::after {
-	content: "BasicBackground by" !important;
+	content: "ZeldaTheme by" !important;
 	font-size: 12px !important;
 	color: var(--text-muted) !important;
 	cursor: pointer !important;
@@ -7218,7 +7218,7 @@ html:only-child > head + body div.app_bd26cc > div.app_a01fb1 > div.layers_d4b6c
 	animation: unset !important;
 }
 html:only-child > head + body div.app_bd26cc > div.app_a01fb1 > div.layers_d4b6c5.layers_a01fb1 > div.layer_d4b6c5.baseLayer_d4b6c5 + div.layer_d4b6c5 > div.standardSidebarView_c25c6d > div.sidebarRegion_c25c6d > div.sidebarRegionScroller_c25c6d.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 > nav.sidebar_c25c6d > div.side_a0 > div.info_c5a741::before {
-	content: "DevilBro" !important;
+	content: "mvqna" !important;
 	font-size: 12px !important;
 	font-weight: 600 !important;
 	color: rgb(var(--accentcolor_v)) !important;
