@@ -31,7 +31,6 @@ This theme was created by **mvqna**, a passionate Zelda fan. All elements of thi
 
 This theme was created with the help of **DevilBro**, the creator of BasicBackground, so please, i suggest to check their repository, thank you!
 
-
 https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground
 
 ---
