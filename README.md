@@ -26,7 +26,7 @@ https://youtu.be/W6aqvb_ujPg
 
 ## Screenshots
 
-![Screenshot 1](https://i.imgur.com/bWIFPL0.png)
+![Screenshot 1](https://i.imgur.com/D1p9M9y.png)
 
 
 
